@@ -29,16 +29,13 @@
 #novedades .titulo {
     width: 100%;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
     font-weight: 700;
     padding-top: 5px;
 
 }
 
-#Videos .titulo {
-    width: 100%;
-    text-align: center;
-}
+
 
 body {
     /* activa o quita las barras de desplazamiento */
@@ -167,3 +164,21 @@ body {
 .img-alto{
     height: 500px; ;
 }
+
+/* seccion nosotros */
+#nosotros .titulo {
+        width: 100%;
+        text-align: center !important; 
+        margin-top: 115px;
+}
+
+/* seccion mujeres  */
+#mujeres .titulo{
+    width: 100%;
+    text-align: center !important;
+    margin-top: 115%;
+}
+.img-alto{
+    height: 400px;
+}
+
