@@ -174,11 +174,16 @@ body {
 
 /* seccion mujeres  */
 #mujeres .titulo{
-    width: 100%;
+    width: 90%;
     text-align: center !important;
     margin-top: 115%;
 }
 .img-alto{
     height: 400px;
+    width: 400px;
 }
 
+.card-body{
+    width: 100%;
+    height: 200px !important;
+}
