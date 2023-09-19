@@ -249,5 +249,36 @@ body {
     padding-top: 5px;
 
 }
+#contacto{
+    margin: 0 auto;
+    width: 600px;
+    margin-left: 556px;
+}
+#contacto .titulo {
+    width: 100%;
+    text-align: center;
+    color: #9c8e43;
+    font-weight: 700;
+    padding-top: 5px;
+
+}
+
+
+form{
+    margin: 0 auto;
+}
+
+
+#contacto{
+
+    width: 100%;
+    text-align: center;
+    color: #9c8e43;
+    font-weight: 700;
+    padding-top: 5px;
+
+}
+
+
 
 
